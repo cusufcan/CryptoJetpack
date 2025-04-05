@@ -1,4 +1,4 @@
-package com.buspass.cryptojetpack.ui.theme
+package com.mercan.cryptojetpack.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

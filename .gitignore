@@ -319,3 +319,6 @@ obj/
 ### AndroidStudio Patch ###
 
 !/gradle/wrapper/gradle-wrapper.jar
+
+# KEY
+/app/src/main/java/com/mercan/cryptojetpack/util/Constants.kt
